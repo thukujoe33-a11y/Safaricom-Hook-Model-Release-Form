@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Safaricom Hook Model Release Form",
+  "description": "A web application for participants of Safaricom Hook events to digitally read and sign a model release form. It includes an admin dashboard to view and manage submissions.",
+  "requestFramePermissions": []
+}
